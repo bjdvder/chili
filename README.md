@@ -124,5 +124,8 @@ Keywords: markdown
 [Post content]
 ```
 
+# Testing
+`python tests/chili_test.py`
+
 # Example
 ChiliPy.com: <http://chilipy.com/>
